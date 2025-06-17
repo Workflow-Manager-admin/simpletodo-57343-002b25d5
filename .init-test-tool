@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/simpletodo-57343-002b25d5/simpletodo_frontend"
+}
